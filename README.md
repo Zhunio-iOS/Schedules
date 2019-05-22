@@ -3,7 +3,7 @@
 Schedules is an iOS app that allows the user to retrieve events for specific dates  and squadrons.
 
 <div style="text-align:center">
-<img style="display: inline;" src="screenshots/all-schedules.PNG" />
+<img style="display: inline;" src="screenshots/schedules.PNG" />
 <img style="display: inline;" src="screenshots/all-schedules.PNG" />
 </div>
 
